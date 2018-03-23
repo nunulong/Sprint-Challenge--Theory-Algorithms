@@ -43,7 +43,7 @@ both `antelope` and `antelopes`.)
 
         ab*c+d?[ef]
 
-        Answer: (img/state-machine-graph.png)
+    Answer: ![State machine graph](img/state-machine-graph.png)
 
     Remember the ε transition can be used to move between states without
     consuming input.
@@ -52,7 +52,7 @@ both `antelope` and `antelopes`.)
     machine diagram for the lion and label the transition events that
     cause state transitions.
 
-    Answer: ![State machine graph](img/state-machine-graph.png)
+    Answer: ![Lion state machine](img/lion-state-machine.png)
 
 *   The VT-100 terminal (console) outputs text to the screen as it
     receives it over the wire. One exception is that when it receives an
