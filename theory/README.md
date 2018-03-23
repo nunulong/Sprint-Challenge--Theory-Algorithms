@@ -43,7 +43,7 @@ both `antelope` and `antelopes`.)
 
         ab*c+d?[ef]
 
-        Answer: ![State machine graph](img/state-machine-graph.png)
+        Answer: ![State Machine Graph](img/state-machine-graph.png)
 
     Remember the ε transition can be used to move between states without
     consuming input.
